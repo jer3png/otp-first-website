@@ -46,7 +46,7 @@ body {
 }
 
 .information{
-    padding: 60px 200px;    
+    padding: 100px 200px;    
 }
 
 .information .title {
@@ -75,6 +75,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 8px;
+    max-width: 150px;
 }
 
 .quote {
